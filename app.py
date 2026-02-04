@@ -1,7 +1,5 @@
 """Simple calculator module with basic arithmetic operations."""
 
-import sys
-
 
 def add(a, b):
     """Add two numbers."""
